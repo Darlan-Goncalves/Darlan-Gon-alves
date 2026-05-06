@@ -23,11 +23,11 @@
 ## 📜 About Me
 
 ```yaml
-name: Darlan Gonçalves
-role: Analista de Sistemas
-location: São Paulo, BR
-focus: ERP Protheus | Fluig | SQL Server | ADVPL | Process Optimization
-current_role: Analista de Sistemas Interno @ Jungheinrich Brasil
+nome: Darlan Gonçalves
+cargo: Analista de Sistemas
+localização: São Paulo, Brasil
+foco: ERP Protheus | Fluig | SQL Server | ADVPL | Otimização de Processos
+cargo_atual: Analista de Sistemas Interno @ Jungheinrich Brasil
 ```
 
 > *"Security is not a product, but a process."* — Bruce Schneier
