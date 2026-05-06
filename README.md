@@ -85,14 +85,6 @@ I'm an offensive security specialist focused on **API penetration testing**, **w
 
 ---
 
-## 🏆 TryHackMe
-
-<div align="center">
-
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/MFerreira.png)
-
-**Rank:** Guru &nbsp;|&nbsp; **Points:** 19,188+ &nbsp;|&nbsp; **Rooms:** 125+
-
 </div>
 
 ---
