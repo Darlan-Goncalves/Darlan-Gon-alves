@@ -5,13 +5,13 @@
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=FF0000&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%F0%9F%94%93+Breaking+things+to+make+them+stronger;%F0%9F%8E%AF+OWASP+%7C+API+Security+%7C+LLM+Security+%7C+Web+Pentest" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%F0%9F%92%BB+Analista+de+Sistemas+%7C+ERP+Protheus+%7C+Fluig;%F0%9F%93%8A+SQL+Server+%7C+ADVPL+%7C+Power+BI+%7C+Automa%C3%A7%C3%A3o" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Badges -->
-[![HuntBox](https://img.shields.io/badge/🔴_HuntBox-Offensive_Security-8B0000?style=for-the-badge&labelColor=0d0d0d)](https://huntbox.com.br)
+[![HuntBox](https://img.shields.io/badge/🔵_HuntBox-Offensive_Security-8B0000?style=for-the-badge&labelColor=0d0d0d)](https://huntbox.com.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matheus-a-40096a150)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/MFerreira)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Vp3ZfwpmWp)
@@ -36,7 +36,7 @@ I'm an offensive security specialist focused on **API penetration testing**, **w
 
 ---
 
-## 🔴 TOTVS — Protheus
+## 🔵 TOTVS — Protheus
 
 <div align="center">
 
