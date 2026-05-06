@@ -20,7 +20,7 @@
 
 ---
 
-## 🏴‍☠️ About Me
+## 📜 About Me
 
 ```yaml
 name: Darlan Gonçalves
