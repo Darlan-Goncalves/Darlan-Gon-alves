@@ -32,7 +32,7 @@ current_role: Analista de Sistemas Interno @ Jungheinrich Brasil
 
 > *"Security is not a product, but a process."* — Bruce Schneier
 
-I'm an offensive security specialist focused on **API penetration testing**, **web application security**, **LLM security**, and **vulnerability research**. Currently building **[HuntBox](https://huntbox.com.br)** — a 100% offensive security company delivering real-world pentest engagements.
+Atuo com foco em sustentação do ERP Protheus e Fluig, garantindo a estabilidade do sistema em todas as áreas de negócio e mapeamento de processos. Possuo experiência em treinamentos, suporte técnico, análise de falhas e logs. Comprometido com a melhoria contínua, trabalho alinhado a metodologias internas, colaborando com equipes técnicas e apoiando a gestão de tarefas para garantir a eficiência dos processos.
 
 ---
 
