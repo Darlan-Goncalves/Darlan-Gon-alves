@@ -23,13 +23,11 @@
 ## 🏴‍☠️ About Me
 
 ```yaml
-name: Matheus Ferreira
-alias: Mftheux
-role: Offensive Security Professional
-company: Founder @ HuntBox | Contractor @ IT4US
+name: Darlan Gonçalves
+role: Analista de Sistemas
 location: São Paulo, BR
-focus: API Pentest | Web Application Security | LLM Security | Bug Bounty
-certifications_in_progress: [OSCP, eWPT, BSCP]
+focus: ERP Protheus | Fluig | SQL Server | ADVPL | Process Optimization
+current_role: Analista de Sistemas Interno @ Jungheinrich Brasil
 ```
 
 > *"Security is not a product, but a process."* — Bruce Schneier
