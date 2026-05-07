@@ -12,9 +12,8 @@
 
 <!-- Badges -->
 [![HuntBox](https://img.shields.io/badge/🔵_HuntBox-Offensive_Security-8B0000?style=for-the-badge&labelColor=0d0d0d)](https://huntbox.com.br)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matheus-a-40096a150)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/MFerreira)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Vp3ZfwpmWp)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darlan-gon%C3%A7alves/)
+
 
 </div>
 
