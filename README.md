@@ -19,7 +19,7 @@
 
 ---
 
-## 📜 About Me
+## 📜 Sobre Mim
 
 ```yaml
 nome: Darlan Gonçalves
