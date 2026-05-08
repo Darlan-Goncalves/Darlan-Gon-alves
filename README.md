@@ -84,43 +84,8 @@ Atuo com foco em sustentação do ERP Protheus e Fluig, garantindo a estabilidad
 
 ---
 
-</div>
-
----
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MTheux&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=ff0000&icon_color=ff0000&text_color=ffffff" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MTheux&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=ff0000&text_color=ffffff" />
-
-<br/>
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MTheux&theme=radical&hide_border=true&background=0d0d0d&ring=ff0000&fire=ff0000&currStreakLabel=ff0000)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/MTheux/MTheux/output/github-snake-dark.svg)
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:8B0000,100:ff0000&height=120&section=footer" width="100%" />
-
-**⚔️ Hack the planet. Secure the future.**
-
-![Profile Views](https://komarev.com/ghpvc/?username=MTheux&color=ff0000&style=flat-square&label=Profile+Views)
 
 </div>
