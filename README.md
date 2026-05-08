@@ -29,7 +29,7 @@ foco: ERP Protheus | Fluig | SQL Server | ADVPL | Otimização de Processos
 cargo_atual: Analista de Sistemas Interno @ Jungheinrich Brasil
 ```
 
-> *"Security is not a product, but a process."* — Bruce Schneier
+> “A persistência é o caminho do êxito.” — Charles Chaplin
 
 Atuo com foco em sustentação do ERP Protheus e Fluig, garantindo a estabilidade do sistema em todas as áreas de negócio e mapeamento de processos. Possuo experiência em treinamentos, suporte técnico, análise de falhas e logs. Comprometido com a melhoria contínua, trabalho alinhado a metodologias internas, colaborando com equipes técnicas e apoiando a gestão de tarefas para garantir a eficiência dos processos.
 
@@ -37,17 +37,9 @@ Atuo com foco em sustentação do ERP Protheus e Fluig, garantindo a estabilidad
 
 ## 🔵 TOTVS — Protheus
 
-<div align="center">
-
-[![HuntBox Website](https://img.shields.io/badge/🌐_huntbox.com.br-Visit_Site-ff0000?style=for-the-badge&labelColor=0d0d0d)](https://huntbox.com.br)
-
 </div>
 
-**HuntBox** is my offensive security company — no blue team, no compliance theater. We break things so you can fix them before attackers do.
-
-🎯 **Services:** API Pentest · Web App Pentest · Mobile Pentest · LLM Security · Vulnerability Assessment
-
-📋 **Standards:** OWASP Top 10 · OWASP API Security · CVSS 3.1 · NIST SP 800-53 · CWE
+O Protheus é um sistema ERP (Enterprise Resource Planning), ou seja, um software que integra os processos da empresa em um único ambiente.
 
 ---
 
